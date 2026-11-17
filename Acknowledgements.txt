@@ -1,0 +1,7 @@
+# BLCA_Coxiella_burnettii_Italy
+Repository for the Bayesian Latent Class Analysis of the paper by Graziosi et al. "Comparison of five commercial ELISAs for the detection of specific anti-Coxiella antibodies in ruminants using a Bayesian latent class model approach"
+
+Authors: XXXX
+
+Corresponding author: Gianmarco Ferrara 
+E-mail: gianmarco.ferrara1@unime.it
